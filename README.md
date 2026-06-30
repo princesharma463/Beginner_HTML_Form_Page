@@ -22,7 +22,6 @@ A simple University Registration Form built using HTML5. This beginner-friendly 
 * HTML5
 
 📚 HTML Concepts Covered
-
 * Form (<form>)
 * Input fields (text, email, tel, date, password, file)
 * Labels
@@ -31,8 +30,10 @@ A simple University Registration Form built using HTML5. This beginner-friendly 
 * Textarea
 * Select & Option 
 * Headings
-* Horizontal Rule (<hr>)
-* Line Breaks (<br>)
+* Horizontal Rule
+* Line Breaks
+
+
 
 🎯 Purpose
 
