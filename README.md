@@ -29,7 +29,7 @@ A simple University Registration Form built using HTML5. This beginner-friendly 
 * Radio buttons
 * Checkboxes
 * Textarea
-* Select & Option
+* Select & Option 
 * Headings
 * Horizontal Rule (<hr>)
 * Line Breaks (<br>)
